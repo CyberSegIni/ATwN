@@ -1,8 +1,8 @@
 <lang="br">
 ATwN (Automated Toolkit with Nmap)
 ================================================================================
-Kit de Ferramentas para Iniciantes no Nmap
-Este projeto visa o aprendizado e a utilização do Nmap<br>
+Kit de Ferramentas para Iniciantes no Nmap <br>
+Este projeto visa o aprendizado e a utilização do Nmap <br>
 O mesmo foi feito para iniciantes do mundo da Segurança da Informação e para quem já esta na área.<br>
 Desencorajamos todos que usam deste conhecimento para o mal. <br>
 Espero que gostem <br>
@@ -13,8 +13,8 @@ Espero que gostem <br>
 <lang="en">
 ATwN (Automated Toolkit with Nmap)
 =================================================================================
-Nmap Beginners Toolkit
-This project aims to learn and use Nmap<br>
+Nmap Beginners Toolkit <br>
+This project aims to learn and use Nmap <br>
 The same was done for beginners in the Information Security world and for those who are already in the field.<br>
 We discourage all who use this knowledge for evil. <br>
 Hope you like it <br>
