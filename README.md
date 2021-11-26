@@ -1,6 +1,7 @@
 <lang="br">
 ATwN (Automated Toolkit with Nmap)
 ================================================================================
+<strong>Requisitos: Sistema Operacional Linux </strong><br>
 <strong>Requisitos: Ter o NMAP Instalado</strong><br>
 Kit de Ferramentas para Iniciantes no Nmap <br>
 Este projeto visa o aprendizado e a utilização do Nmap <br>
@@ -14,6 +15,7 @@ Espero que gostem <br>
 <lang="en">
 ATwN (Automated Toolkit with Nmap)
 =================================================================================
+<strong>Requisitos: Sistema Operacional Linux </strong><br>
 <strong>Requirements: Have NMAP Installed</strong><br>
 Nmap Beginners Toolkit <br>
 This project aims to learn and use Nmap <br>
