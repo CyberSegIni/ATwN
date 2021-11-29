@@ -1,13 +1,13 @@
 <lang="br">
-ATwN (Automated Toolkit with Nmap)
+ATwN (Kit de Ferramentas Automatizadas com Nmap)
 ================================================================================
 <strong>Requisitos:</strong><br>
 <ul> 
   <strong><li>Ter o NMAP Instalado </li></strong>
   <strong><li>Sistema Operacional Linux </li></strong>
-
-<strong>ANTES DE USAR O SCRIPT ADICIONE PERMISSAO DE EXECUTAR PRIMEIRO</strong>
-<strong>DIGITE 'chmod +X colocaPermissao.sh'</strong>
+  <strong><li>ANTES DE USAR O SCRIPT ADICIONE PERMISSAO DE EXECUTAR PRIMEIRO</li></strong>
+  <strong><li>DIGITE 'chmod +X colocaPermissao.sh'</li></strong>
+  <strong><li>Este adicionara a permissão de executar em todos os scripts</li></strong>
 </ul>
 Kit de Ferramentas para Iniciantes no Nmap <br>
 Este projeto visa o aprendizado e a utilização do Nmap <br>
@@ -21,9 +21,15 @@ Espero que gostem <br>
 <lang="en">
 ATwN (Automated Toolkit with Nmap)
 =================================================================================
-<strong>Requisitos: Sistema Operacional Linux </strong><br>
-<strong>Requirements: Have NMAP Installed</strong><br>
-Nmap Beginners Toolkit <br>
+<strong>Requirements:</strong><br>
+<ul>
+  <strong><li>Have NMAP Installed </li></strong>
+  <strong><li>Linux Operating System </li></strong>
+  <strong><li>BEFORE USING SCRIPT ADD PERMISSION TO RUN FIRST</li></strong>
+  <strong><li>TYPE 'chmod +X putPermission.sh'</li></strong>
+  <strong><li>This will add execute permission to all scripts</li></strong>
+</ul>
+Toolkit for Beginners on Nmap <br>
 This project aims to learn and use Nmap <br>
 The same was done for beginners in the Information Security world and for those who are already in the field.<br>
 We discourage all who use this knowledge for evil. <br>
