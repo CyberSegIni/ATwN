@@ -3,10 +3,12 @@ ATwN (Automated Toolkit with Nmap)
 ================================================================================
 <strong>Requisitos:</strong><br>
 <ul> 
-  <li>Ter o NMAP Instalado </li>
-  <li>Sistema Operacional Linux </li>
+  <strong><li>Ter o NMAP Instalado </li></strong>
+  <strong><li>Sistema Operacional Linux </li></strong>
+
+<strong>ANTES DE USAR O SCRIPT ADICIONE PERMISSAO DE EXECUTAR PRIMEIRO</strong>
+<strong>DIGITE 'chmod +X colocaPermissao.sh'</strong>
 </ul>
-<br>
 Kit de Ferramentas para Iniciantes no Nmap <br>
 Este projeto visa o aprendizado e a utilização do Nmap <br>
 O mesmo foi feito para iniciantes do mundo da Segurança da Informação e para quem já esta na área.<br>
